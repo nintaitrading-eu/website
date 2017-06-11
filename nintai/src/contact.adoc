@@ -82,7 +82,7 @@ This e-mailaddress is secured against spambots. JavaScript needs to be activated
 ++++
 <span>
 <SCRIPT TYPE="text/javascript">
-  var_e=('Mobile: +32' + ' 486 ' + '606 ' + '002')	
+  var_e=('Mobile: +32' + ' 472 ' + '980 ' + '989')	
   document.write(var_e)
 </SCRIPT>
 <NOSCRIPT>
