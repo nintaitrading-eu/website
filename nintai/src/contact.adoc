@@ -35,7 +35,7 @@ This bank account number is secured against spambots. JavaScript needs to be act
 
 == Headquarters
 Pastoor Mellaertsstraat 41/003 +  
-2220 Heist-op-den-Berg (Heist-Goor)+  
+2220 Heist-op-den-Berg (Heist-Goor) +  
 Belgium +  
 
 ++++
@@ -82,7 +82,7 @@ This e-mailaddress is secured against spambots. JavaScript needs to be activated
 ++++
 <span>
 <SCRIPT TYPE="text/javascript">
-  var_e=('Mobile: +32' + ' 472 ' + '980 ' + '989')	
+  var_e=('Mobile: +32' + ' 486 ' + '606 ' + '002')	
   document.write(var_e)
 </SCRIPT>
 <NOSCRIPT>
